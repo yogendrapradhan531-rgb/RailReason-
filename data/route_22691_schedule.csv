@@ -1,0 +1,17 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,1,SBC,KSR Bengaluru,12.9781739,77.5695603,,20:00,0.0,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1200,1200,,0.0,,,0
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,22,SSPN,Sri Sathya Sai Prasanthinilayam,14.1610314,77.7588787,22:13,22:15,160.2,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1333,1335,1200,0.0,160.2,133,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,37,GTL,Guntakal Jn,15.1737125,77.3698642,00:40,00:45,294.4,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1480,1485,1335,160.2,134.2,145,5
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,52,RC,Raichur,16.1928034,77.338997,02:28,02:30,416.3,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1588,1590,1485,294.4,121.9,103,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,60,YG,Yadgir,16.7446491,77.1297018,03:13,03:15,485.2,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1633,1635,1590,416.3,68.9,43,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,69,SEM,Seram,17.1812073,77.2856943,04:30,04:31,559.4,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1710,1711,1635,485.2,74.2,75,1
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,95,SC,Secunderabad Jn,17.4338591,78.502051,07:00,07:10,705.8,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1860,1870,1711,559.4,146.4,149,10
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,113,KZJ,Kazipet Jn,17.9748271,79.5112685,08:48,08:50,837.4,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,1968,1970,1870,705.8,131.6,98,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,142,BPQ,Balharshah,19.8499139,79.3478101,12:10,12:15,1072.4,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,2170,2175,1970,837.4,235.0,200,5
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,170,NGP,Nagpur Jn,21.1523731,79.0882365,14:55,15:00,1280.7,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,2335,2340,2175,1072.4,208.3,160,5
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,206,ET,Itarsi Jn,22.6085628,77.76707,19:18,19:20,1577.9,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,2598,2600,2340,1280.7,297.2,258,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,218,BPL,Bhopal Jn,23.2664845,77.4130845,20:55,21:05,1669.2,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,2695,2705,2600,1577.9,91.3,95,10
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,255,VGLJ,Veerangana Lakshmibai Jhansi,25.44395,78.5534422,00:16,00:21,1960.9,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,2896,2901,2705,1669.2,291.7,191,5
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,266,GWL,Gwalior Jn,26.2162438,78.1826037,01:19,01:21,2058.5,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,2959,2961,2901,1960.9,97.6,58,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,280,AGC,Agra Cantt,27.1589527,77.9900478,02:55,02:57,2176.6,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,3055,3057,2961,2058.5,118.1,94,2
+22691,KSR Bengaluru - Hazrat Nizamuddin Rajdhani Express,306,NZM,Hazrat Nizamuddin Jn,28.5889646,77.2535202,05:30,,2364.6,SBC,KSR Bengaluru,NZM,Hazrat Nizamuddin Jn,3210,3210,3057,2176.6,188.0,153,0

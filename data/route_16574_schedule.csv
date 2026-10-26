@@ -1,0 +1,11 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+16574,Yesvantpur Weekly Express,1,PDY,Pondicherry,11.92503,79.8281565,,22:25,0.0,PDY,Pondicherry,YPR,Yesvantpur Jn,1345,1345,,0.0,,,0
+16574,Yesvantpur Weekly Express,5,VM,Villupuram Jn,11.941697,79.4991491,23:20,23:30,37.7,PDY,Pondicherry,YPR,Yesvantpur Jn,1400,1410,1345,0.0,37.7,55,10
+16574,Yesvantpur Weekly Express,11,VRI,Vriddhachalam Jn,11.5333359,79.3165229,00:25,00:35,92.5,PDY,Pondicherry,YPR,Yesvantpur Jn,1465,1475,1410,37.7,54.8,55,10
+16574,Yesvantpur Weekly Express,16,CHSM,Chinna Salem,11.6314243,78.8743248,01:29,01:30,144.0,PDY,Pondicherry,YPR,Yesvantpur Jn,1529,1530,1475,92.5,51.5,54,1
+16574,Yesvantpur Weekly Express,19,ATU,Attur,11.595226,78.5935039,01:54,01:55,175.7,PDY,Pondicherry,YPR,Yesvantpur Jn,1554,1555,1530,144.0,31.7,24,1
+16574,Yesvantpur Weekly Express,27,SA,Salem Jn,11.6707553,78.1135427,03:00,03:05,231.6,PDY,Pondicherry,YPR,Yesvantpur Jn,1620,1625,1555,175.7,55.9,65,5
+16574,Yesvantpur Weekly Express,34,DPJ,Dharmapuri,12.1258613,78.154221,04:13,04:15,297.8,PDY,Pondicherry,YPR,Yesvantpur Jn,1693,1695,1625,231.6,66.2,68,2
+16574,Yesvantpur Weekly Express,40,HSRA,Hosur,12.7183361,77.8229481,05:44,05:45,390.3,PDY,Pondicherry,YPR,Yesvantpur Jn,1784,1785,1695,297.8,92.5,89,1
+16574,Yesvantpur Weekly Express,46,BAND,Banaswadi,13.0058357,77.6281321,07:13,07:15,441.8,PDY,Pondicherry,YPR,Yesvantpur Jn,1873,1875,1785,390.3,51.5,88,2
+16574,Yesvantpur Weekly Express,49,YPR,Yesvantpur Jn,13.0237734,77.5507701,08:20,,456.4,PDY,Pondicherry,YPR,Yesvantpur Jn,1940,1940,1875,441.8,14.6,65,0

@@ -1,0 +1,22 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+20805,Andhra Pradesh Express,1,VSKP,Visakhapatnam,17.7214305,83.2906223,,22:00,0.0,VSKP,Visakhapatnam,NDLS,New Delhi,1320,1320,,0.0,,,0
+20805,Andhra Pradesh Express,4,DVD,Duvvada,17.7035979,83.1513762,22:25,22:27,16.5,VSKP,Visakhapatnam,NDLS,New Delhi,1345,1347,1320,0.0,16.5,25,2
+20805,Andhra Pradesh Express,6,AKP,Anakapalle,17.6946307,83.0086484,22:43,22:45,32.3,VSKP,Visakhapatnam,NDLS,New Delhi,1363,1365,1347,16.5,15.8,16,2
+20805,Andhra Pradesh Express,24,SLO,Samalkot Jn,17.0453164,82.1689895,00:03,00:05,149.8,VSKP,Visakhapatnam,NDLS,New Delhi,1443,1445,1365,32.3,117.5,78,2
+20805,Andhra Pradesh Express,32,RJY,Rajahmundry,16.9840432,81.7839579,00:43,00:45,199.9,VSKP,Visakhapatnam,NDLS,New Delhi,1483,1485,1445,149.8,50.1,38,2
+20805,Andhra Pradesh Express,41,TDD,Tadepalligudem,16.8102437,81.526592,01:28,01:30,242.1,VSKP,Visakhapatnam,NDLS,New Delhi,1528,1530,1485,199.9,42.2,43,2
+20805,Andhra Pradesh Express,48,EE,Eluru,16.7181031,81.1194761,02:08,02:10,289.9,VSKP,Visakhapatnam,NDLS,New Delhi,1568,1570,1530,242.1,47.8,38,2
+20805,Andhra Pradesh Express,59,BZA,Vijayawada Jn,16.5179683,80.6195724,03:25,03:40,349.6,VSKP,Visakhapatnam,NDLS,New Delhi,1645,1660,1570,289.9,59.7,75,15
+20805,Andhra Pradesh Express,75,KMT,Khammam,17.2490347,80.1391669,05:09,05:10,451.4,VSKP,Visakhapatnam,NDLS,New Delhi,1749,1750,1660,349.6,101.8,89,1
+20805,Andhra Pradesh Express,88,WL,Warangal,17.9732956,79.6056068,06:44,06:45,559.0,VSKP,Visakhapatnam,NDLS,New Delhi,1844,1845,1750,451.4,107.6,94,1
+20805,Andhra Pradesh Express,100,PDPL,Peddapalli Jn,18.6137566,79.3923255,08:14,08:15,642.6,VSKP,Visakhapatnam,NDLS,New Delhi,1934,1935,1845,559.0,83.6,89,1
+20805,Andhra Pradesh Express,102,RDM,Ramagundam,18.7639857,79.4348261,08:34,08:35,660.1,VSKP,Visakhapatnam,NDLS,New Delhi,1954,1955,1935,642.6,17.5,19,1
+20805,Andhra Pradesh Express,112,SKZR,Sirpur Kaghaznagar,19.3465635,79.489989,09:54,09:55,732.3,VSKP,Visakhapatnam,NDLS,New Delhi,2034,2035,1955,660.1,72.2,79,1
+20805,Andhra Pradesh Express,119,BPQ,Balharshah,19.8499139,79.3478101,11:05,11:10,802.2,VSKP,Visakhapatnam,NDLS,New Delhi,2105,2110,2035,732.3,69.9,70,5
+20805,Andhra Pradesh Express,122,CD,Chandrapur,19.9603283,79.3001343,11:25,11:27,815.9,VSKP,Visakhapatnam,NDLS,New Delhi,2125,2127,2110,802.2,13.7,15,2
+20805,Andhra Pradesh Express,147,NGP,Nagpur Jn,21.1523731,79.0882365,14:10,14:15,1010.5,VSKP,Visakhapatnam,NDLS,New Delhi,2290,2295,2127,815.9,194.6,163,5
+20805,Andhra Pradesh Express,195,BPL,Bhopal Jn,23.2664845,77.4130845,20:20,20:30,1399.0,VSKP,Visakhapatnam,NDLS,New Delhi,2660,2670,2295,1010.5,388.5,365,10
+20805,Andhra Pradesh Express,233,VGLJ,Veerangana Lakshmibai Jhansi,25.44395,78.5534422,00:06,00:11,1690.8,VSKP,Visakhapatnam,NDLS,New Delhi,2886,2891,2670,1399.0,291.8,216,5
+20805,Andhra Pradesh Express,245,GWL,Gwalior Jn,26.2162438,78.1826037,01:09,01:11,1788.3,VSKP,Visakhapatnam,NDLS,New Delhi,2949,2951,2891,1690.8,97.5,58,2
+20805,Andhra Pradesh Express,259,AGC,Agra Cantt,27.1589527,77.9900478,02:40,02:42,1906.4,VSKP,Visakhapatnam,NDLS,New Delhi,3040,3042,2951,1788.3,118.1,89,2
+20805,Andhra Pradesh Express,289,NDLS,New Delhi,28.6419258,77.2217499,05:40,,2101.2,VSKP,Visakhapatnam,NDLS,New Delhi,3220,3220,3042,1906.4,194.8,178,0

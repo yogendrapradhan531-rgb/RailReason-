@@ -1,0 +1,9 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,1,MMCT,Mumbai Central,18.9695855,72.8193152,,17:00,0.0,MMCT,Mumbai Central,NDLS,New Delhi,1020,1020,,0.0,,,0
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,18,BVI,Borivali,19.229068,72.8573628,17:20,17:22,30.0,MMCT,Mumbai Central,NDLS,New Delhi,1040,1042,1020,0.0,30.0,20,2
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,59,ST,Surat,21.2050293,72.8407427,19:43,19:48,263.6,MMCT,Mumbai Central,NDLS,New Delhi,1183,1188,1042,30.0,233.6,141,5
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,83,BRC,Vadodara Jn,22.3110728,73.1808008,21:06,21:16,393.2,MMCT,Mumbai Central,NDLS,New Delhi,1266,1276,1188,263.6,129.6,78,10
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,119,RTM,Ratlam Jn,23.340708,75.0509934,00:25,00:28,653.5,MMCT,Mumbai Central,NDLS,New Delhi,1465,1468,1276,393.2,260.3,189,3
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,124,NAD,Nagda Jn,23.45621,75.41245,01:08,01:10,694.9,MMCT,Mumbai Central,NDLS,New Delhi,1508,1510,1468,653.5,41.4,40,2
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,151,KOTA,Kota Jn,25.2239827,75.8808529,03:15,03:20,920.3,MMCT,Mumbai Central,NDLS,New Delhi,1635,1640,1510,694.9,225.4,125,5
+12951,Mumbai Central - New Delhi Tejas Rajdhani Express,214,NDLS,New Delhi,28.6419258,77.2217499,08:32,,1385.7,MMCT,Mumbai Central,NDLS,New Delhi,1952,1952,1640,920.3,465.4,312,0

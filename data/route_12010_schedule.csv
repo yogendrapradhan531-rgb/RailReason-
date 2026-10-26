@@ -1,0 +1,10 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12010,Ahmedabad - Mumbai Central Shatabdi Express,1,ADI,Ahmedabad Jn,23.0263312,72.601,,15:10,0.0,ADI,Ahmedabad Jn,MMCT,Mumbai Central,910,910,,0.0,,,0
+12010,Ahmedabad - Mumbai Central Shatabdi Express,11,ND,Nadiad Jn,22.6934719,72.8574562,15:39,15:41,45.8,ADI,Ahmedabad Jn,MMCT,Mumbai Central,939,941,910,0.0,45.8,29,2
+12010,Ahmedabad - Mumbai Central Shatabdi Express,14,ANND,Anand Jn,22.5617213,72.9659457,15:58,16:00,64.2,ADI,Ahmedabad Jn,MMCT,Mumbai Central,958,960,941,45.8,18.4,17,2
+12010,Ahmedabad - Mumbai Central Shatabdi Express,22,BRC,Vadodara Jn,22.3110728,73.1808008,16:30,16:35,100.0,ADI,Ahmedabad Jn,MMCT,Mumbai Central,990,995,960,64.2,35.8,30,5
+12010,Ahmedabad - Mumbai Central Shatabdi Express,34,BH,Bharuch Jn,21.7035151,72.9992471,17:22,17:24,170.5,ADI,Ahmedabad Jn,MMCT,Mumbai Central,1042,1044,995,100.0,70.5,47,2
+12010,Ahmedabad - Mumbai Central Shatabdi Express,46,ST,Surat,21.2050293,72.8407427,18:10,18:15,229.7,ADI,Ahmedabad Jn,MMCT,Mumbai Central,1090,1095,1044,170.5,59.2,46,5
+12010,Ahmedabad - Mumbai Central Shatabdi Express,65,VAPI,Vapi,20.3735482,72.9084376,19:18,19:20,324.7,ADI,Ahmedabad Jn,MMCT,Mumbai Central,1158,1160,1095,229.7,95.0,63,2
+12010,Ahmedabad - Mumbai Central Shatabdi Express,87,BVI,Borivali,19.229068,72.8573628,20:48,20:50,463.2,ADI,Ahmedabad Jn,MMCT,Mumbai Central,1248,1250,1160,324.7,138.5,88,2
+12010,Ahmedabad - Mumbai Central Shatabdi Express,104,MMCT,Mumbai Central,18.9695855,72.8193152,21:45,,493.2,ADI,Ahmedabad Jn,MMCT,Mumbai Central,1305,1305,1250,463.2,30.0,55,0

@@ -1,0 +1,12 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12002,New Delhi - Rani Kamlapati Shatabdi Express,1,NDLS,New Delhi,28.6419258,77.2217499,,06:00,0.0,NDLS,New Delhi,RKMP,Rani Kamalapati,360,360,,0.0,,,0
+12002,New Delhi - Rani Kamlapati Shatabdi Express,23,MTJ,Mathura Jn,27.4801125,77.6737596,07:19,07:20,141.1,NDLS,New Delhi,RKMP,Rani Kamalapati,439,440,360,0.0,141.1,79,1
+12002,New Delhi - Rani Kamlapati Shatabdi Express,31,AGC,Agra Cantt,27.1589527,77.9900478,07:50,07:55,194.7,NDLS,New Delhi,RKMP,Rani Kamalapati,470,475,440,141.1,53.6,30,5
+12002,New Delhi - Rani Kamlapati Shatabdi Express,35,DHO,Dhaulpur,26.6963543,77.9059515,08:39,08:40,247.5,NDLS,New Delhi,RKMP,Rani Kamalapati,519,520,475,194.7,52.8,44,1
+12002,New Delhi - Rani Kamlapati Shatabdi Express,39,MRA,Morena,26.5013204,78.0028617,08:57,08:58,274.2,NDLS,New Delhi,RKMP,Rani Kamalapati,537,538,520,247.5,26.7,17,1
+12002,New Delhi - Rani Kamlapati Shatabdi Express,45,GWL,Gwalior Jn,26.2162438,78.1826037,09:23,09:28,312.8,NDLS,New Delhi,RKMP,Rani Kamalapati,563,568,538,274.2,38.6,25,5
+12002,New Delhi - Rani Kamlapati Shatabdi Express,56,VGLJ,Veerangana Lakshmibai Jhansi,25.44395,78.5534422,10:45,10:50,410.4,NDLS,New Delhi,RKMP,Rani Kamalapati,645,650,568,312.8,97.6,77,5
+12002,New Delhi - Rani Kamlapati Shatabdi Express,68,LAR,Lalitpur,24.6878726,78.3957263,11:42,11:43,500.7,NDLS,New Delhi,RKMP,Rani Kamalapati,702,703,650,410.4,90.3,52,1
+12002,New Delhi - Rani Kamlapati Shatabdi Express,75,BINA,Bina Jn,24.1712328,78.1851809,12:40,12:42,563.5,NDLS,New Delhi,RKMP,Rani Kamalapati,760,762,703,500.7,62.8,57,2
+12002,New Delhi - Rani Kamlapati Shatabdi Express,93,BPL,Bhopal Jn,23.2664845,77.4130845,14:12,14:15,702.2,NDLS,New Delhi,RKMP,Rani Kamalapati,852,855,762,563.5,138.7,90,3
+12002,New Delhi - Rani Kamlapati Shatabdi Express,94,RKMP,Rani Kamalapati,23.2208832,77.4393691,14:40,,708.3,NDLS,New Delhi,RKMP,Rani Kamalapati,880,880,855,702.2,6.1,25,0

@@ -1,0 +1,5 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+20607,Chennai Central - Mysore Vande Bharat Express,1,MAS,MGR Chennai Central,13.0824232,80.2759622,,05:50,0.0,MAS,MGR Chennai Central,MYS,Mysore Jn,350,350,,0.0,,,0
+20607,Chennai Central - Mysore Vande Bharat Express,41,KPD,Katpadi Jn,12.97218,79.13814,07:13,07:15,129.6,MAS,MGR Chennai Central,MYS,Mysore Jn,433,435,350,0.0,129.6,83,2
+20607,Chennai Central - Mysore Vande Bharat Express,74,SBC,KSR Bengaluru,12.9781739,77.5695603,10:00,10:05,359.3,MAS,MGR Chennai Central,MYS,Mysore Jn,600,605,435,129.6,229.7,165,5
+20607,Chennai Central - Mysore Vande Bharat Express,95,MYS,Mysore Jn,12.316801,76.645079,12:20,,497.2,MAS,MGR Chennai Central,MYS,Mysore Jn,740,740,605,359.3,137.9,135,0

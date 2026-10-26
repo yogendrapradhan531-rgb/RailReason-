@@ -1,0 +1,6 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12028,KSR Bengaluru - Chennai Central Shatabdi Express,1,SBC,KSR Bengaluru,12.9781739,77.5695603,,06:00,0.0,SBC,KSR Bengaluru,MAS,MGR Chennai Central,360,360,,0.0,,,0
+12028,KSR Bengaluru - Chennai Central Shatabdi Express,2,BNC,Bengaluru Cantt,12.9936865,77.5980003,06:09,06:10,4.2,SBC,KSR Bengaluru,MAS,MGR Chennai Central,369,370,360,0.0,4.2,9,1
+12028,KSR Bengaluru - Chennai Central Shatabdi Express,21,JTJ,Jolarpettai Jn,12.5639905,78.5783902,07:49,07:50,145.6,SBC,KSR Bengaluru,MAS,MGR Chennai Central,469,470,370,4.2,141.4,99,1
+12028,KSR Bengaluru - Chennai Central Shatabdi Express,34,KPD,Katpadi Jn,12.97218,79.13814,08:53,08:55,229.7,SBC,KSR Bengaluru,MAS,MGR Chennai Central,533,535,470,145.6,84.1,63,2
+12028,KSR Bengaluru - Chennai Central Shatabdi Express,74,MAS,MGR Chennai Central,13.0824232,80.2759622,11:00,,359.3,SBC,KSR Bengaluru,MAS,MGR Chennai Central,660,660,535,229.7,129.6,125,0

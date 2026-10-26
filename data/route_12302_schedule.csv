@@ -1,0 +1,10 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12302,New Delhi - Howrah Rajdhani Express,1,NDLS,New Delhi,28.6419258,77.2217499,,16:50,0.0,NDLS,New Delhi,HWH,Howrah,1010,1010,,0.0,,,0
+12302,New Delhi - Howrah Rajdhani Express,62,CNB,Kanpur Central Jn,26.4538613,80.3512433,21:30,21:35,439.0,NDLS,New Delhi,HWH,Howrah,1290,1295,1010,0.0,439.0,280,5
+12302,New Delhi - Howrah Rajdhani Express,92,PRYJ,Prayagraj Jn,25.4454322,81.825958,23:41,23:43,633.5,NDLS,New Delhi,HWH,Howrah,1421,1423,1295,439.0,194.5,126,2
+12302,New Delhi - Howrah Rajdhani Express,120,DDU,Pt. Deen Dayal Upadhyaya Jn,25.2803918,83.1207396,01:33,01:40,778.3,NDLS,New Delhi,HWH,Howrah,1533,1540,1423,633.5,144.8,110,7
+12302,New Delhi - Howrah Rajdhani Express,151,GAYA,Gaya Jn,24.8035189,84.9994253,03:57,04:00,983.0,NDLS,New Delhi,HWH,Howrah,1677,1680,1540,778.3,204.7,137,3
+12302,New Delhi - Howrah Rajdhani Express,180,PNME,Parasnath,23.9873085,86.0379701,05:43,05:45,1134.6,NDLS,New Delhi,HWH,Howrah,1783,1785,1680,983.0,151.6,103,2
+12302,New Delhi - Howrah Rajdhani Express,188,DHN,Dhanbad Jn,23.7913021,86.4294782,06:33,06:38,1182.2,NDLS,New Delhi,HWH,Howrah,1833,1838,1785,1134.6,47.6,48,5
+12302,New Delhi - Howrah Rajdhani Express,200,ASN,Asansol Jn,23.69131,86.974792,07:18,07:20,1240.2,NDLS,New Delhi,HWH,Howrah,1878,1880,1838,1182.2,58.0,40,2
+12302,New Delhi - Howrah Rajdhani Express,254,HWH,Howrah,22.5828709,88.3428112,09:55,,1439.6,NDLS,New Delhi,HWH,Howrah,2035,2035,1880,1240.2,199.4,155,0

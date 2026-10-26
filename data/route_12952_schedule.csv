@@ -1,0 +1,9 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,1,NDLS,New Delhi,28.6419258,77.2217499,,16:55,0.0,NDLS,New Delhi,MMCT,Mumbai Central,1015,1015,,0.0,,,0
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,64,KOTA,Kota Jn,25.2239827,75.8808529,21:30,21:40,465.4,NDLS,New Delhi,MMCT,Mumbai Central,1290,1300,1015,0.0,465.4,275,10
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,91,NAD,Nagda Jn,23.45621,75.41245,23:57,23:59,690.8,NDLS,New Delhi,MMCT,Mumbai Central,1437,1439,1300,465.4,225.4,137,2
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,96,RTM,Ratlam Jn,23.340708,75.0509934,00:30,00:33,732.2,NDLS,New Delhi,MMCT,Mumbai Central,1470,1473,1439,690.8,41.4,31,3
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,132,BRC,Vadodara Jn,22.3110728,73.1808008,03:40,03:50,992.5,NDLS,New Delhi,MMCT,Mumbai Central,1660,1670,1473,732.2,260.3,187,10
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,156,ST,Surat,21.2050293,72.8407427,05:13,05:18,1122.1,NDLS,New Delhi,MMCT,Mumbai Central,1753,1758,1670,992.5,129.6,83,5
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,197,BVI,Borivali,19.229068,72.8573628,07:38,07:40,1355.7,NDLS,New Delhi,MMCT,Mumbai Central,1898,1900,1758,1122.1,233.6,140,2
+12952,New Delhi - Mumbai Central Tejas Rajdhani Express,214,MMCT,Mumbai Central,18.9695855,72.8193152,08:35,,1385.7,NDLS,New Delhi,MMCT,Mumbai Central,1955,1955,1900,1355.7,30.0,55,0

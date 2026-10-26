@@ -1,0 +1,10 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12009,Mumbai Central - Ahmedabad Shatabdi Express,1,MMCT,Mumbai Central,18.9695855,72.8193152,,06:20,0.0,MMCT,Mumbai Central,ADI,Ahmedabad Jn,380,380,,0.0,,,0
+12009,Mumbai Central - Ahmedabad Shatabdi Express,18,BVI,Borivali,19.229068,72.8573628,06:43,06:45,30.0,MMCT,Mumbai Central,ADI,Ahmedabad Jn,403,405,380,0.0,30.0,23,2
+12009,Mumbai Central - Ahmedabad Shatabdi Express,40,VAPI,Vapi,20.3735482,72.9084376,08:05,08:07,168.5,MMCT,Mumbai Central,ADI,Ahmedabad Jn,485,487,405,30.0,138.5,80,2
+12009,Mumbai Central - Ahmedabad Shatabdi Express,59,ST,Surat,21.2050293,72.8407427,09:21,09:24,263.6,MMCT,Mumbai Central,ADI,Ahmedabad Jn,561,564,487,168.5,95.1,74,3
+12009,Mumbai Central - Ahmedabad Shatabdi Express,71,BH,Bharuch Jn,21.7035151,72.9992471,10:02,10:04,322.7,MMCT,Mumbai Central,ADI,Ahmedabad Jn,602,604,564,263.6,59.1,38,2
+12009,Mumbai Central - Ahmedabad Shatabdi Express,83,BRC,Vadodara Jn,22.3110728,73.1808008,10:54,10:59,393.2,MMCT,Mumbai Central,ADI,Ahmedabad Jn,654,659,604,322.7,70.5,50,5
+12009,Mumbai Central - Ahmedabad Shatabdi Express,91,ANND,Anand Jn,22.5617213,72.9659457,11:30,11:32,429.0,MMCT,Mumbai Central,ADI,Ahmedabad Jn,690,692,659,393.2,35.8,31,2
+12009,Mumbai Central - Ahmedabad Shatabdi Express,94,ND,Nadiad Jn,22.6934719,72.8574562,11:46,11:48,447.4,MMCT,Mumbai Central,ADI,Ahmedabad Jn,706,708,692,429.0,18.4,14,2
+12009,Mumbai Central - Ahmedabad Shatabdi Express,104,ADI,Ahmedabad Jn,23.0263312,72.601,12:40,,493.2,MMCT,Mumbai Central,ADI,Ahmedabad Jn,760,760,708,447.4,45.8,52,0

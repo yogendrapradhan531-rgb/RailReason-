@@ -1,0 +1,28 @@
+# ---- secrets -------------------------------------------------------------
+# .env holds live API keys. Committing it once compromises those keys
+# permanently; rotating them is then the only fix. Copy .env.example instead.
+.env
+.env.*
+!.env.example
+
+# ---- generated data ------------------------------------------------------
+# Everything in output/ is rebuildable by re-running the scripts, and
+# models.joblib alone is around 50 MB. Two exceptions are worth knowing
+# about: observations.jsonl and prediction_accuracy_log.jsonl are the only
+# files here that CANNOT be regenerated, because they record real arrivals
+# observed at a moment that has passed. Back those up outside the repo.
+output/
+
+# ---- python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- editors and os ------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

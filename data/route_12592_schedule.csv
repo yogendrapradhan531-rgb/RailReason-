@@ -1,0 +1,37 @@
+Train No,Train Name,SEQ,Station Code,Station Name,Lat,Lng,Arrival time,Departure Time,Distance,Source Station,Source Station Name,Destination Station,Destination Station Name,arr_min,dep_min,prev_dep_min,prev_distance,segment_distance_km,segment_travel_min,halt_min
+12592,Gorakhpur SF Express,1,YPR,Yesvantpur Jn,13.0237734,77.5507701,,17:30,0.0,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1050,1050,,0.0,,,0
+12592,Gorakhpur SF Express,14,HUP,Hindupur,13.818776,77.4999363,18:46,18:47,95.6,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1126,1127,1050,0.0,95.6,76,1
+12592,Gorakhpur SF Express,21,DMM,Dharmavaram Jn,14.4260635,77.7152283,20:28,20:30,175.0,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1228,1230,1127,95.6,79.4,101,2
+12592,Gorakhpur SF Express,25,ATP,Anantapur,14.6862885,77.5952461,20:58,21:00,208.2,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1258,1260,1230,175.0,33.2,28,2
+12592,Gorakhpur SF Express,33,GTL,Guntakal Jn,15.1737125,77.3698642,22:10,22:15,275.7,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1330,1335,1260,208.2,67.5,70,5
+12592,Gorakhpur SF Express,39,AD,Adoni,15.6176141,77.2746943,22:58,23:00,328.0,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1378,1380,1335,275.7,52.3,43,2
+12592,Gorakhpur SF Express,44,MALM,Manthralayam Road,15.9443171,77.2984386,23:28,23:30,368.8,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1408,1410,1380,328.0,40.8,28,2
+12592,Gorakhpur SF Express,48,RC,Raichur,16.1928034,77.338997,00:08,00:10,397.6,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1448,1450,1410,368.8,28.8,38,2
+12592,Gorakhpur SF Express,87,SC,Secunderabad Jn,17.4338591,78.502051,05:50,06:00,630.5,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1790,1800,1450,397.6,232.9,340,10
+12592,Gorakhpur SF Express,111,KZJ,Kazipet Jn,17.9748271,79.5112685,08:03,08:05,771.8,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,1923,1925,1800,630.5,141.3,123,2
+12592,Gorakhpur SF Express,123,RDM,Ramagundam,18.7639857,79.4348261,09:39,09:40,864.7,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2019,2020,1925,771.8,92.9,94,1
+12592,Gorakhpur SF Express,125,MCI,Manchiryal,18.87953,79.44942,09:59,10:00,878.5,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2039,2040,2020,864.7,13.8,19,1
+12592,Gorakhpur SF Express,128,BPA,Bellampalli,19.0523476,79.4859366,10:29,10:30,898.2,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2069,2070,2040,878.5,19.7,29,1
+12592,Gorakhpur SF Express,133,SKZR,Sirpur Kaghaznagar,19.3465635,79.489989,10:59,11:00,936.9,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2099,2100,2070,898.2,38.7,29,1
+12592,Gorakhpur SF Express,140,BPQ,Balharshah,19.8499139,79.3478101,12:25,12:30,1006.7,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2185,2190,2100,936.9,69.8,85,5
+12592,Gorakhpur SF Express,143,CD,Chandrapur,19.9603283,79.3001343,12:45,12:47,1020.4,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2205,2207,2190,1006.7,13.7,15,2
+12592,Gorakhpur SF Express,168,NGP,Nagpur Jn,21.1523731,79.0882365,15:50,15:55,1215.1,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2390,2395,2207,1020.4,194.7,183,5
+12592,Gorakhpur SF Express,187,AMLA,Amla Jn,21.9195099,78.1227559,18:08,18:10,1383.3,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2528,2530,2395,1215.1,168.2,133,2
+12592,Gorakhpur SF Express,190,BZU,Betul,21.8971699,77.9061703,18:26,18:28,1406.2,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2546,2548,2530,1383.3,22.9,16,2
+12592,Gorakhpur SF Express,193,GDYA,Ghoradongri,22.1256421,78.0021998,19:01,19:02,1442.1,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2581,2582,2548,1406.2,35.9,33,1
+12592,Gorakhpur SF Express,204,ET,Itarsi Jn,22.6085628,77.76707,21:55,22:05,1512.3,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2755,2765,2582,1442.1,70.2,173,10
+12592,Gorakhpur SF Express,216,BPL,Bhopal Jn,23.2664845,77.4130845,23:40,23:45,1603.6,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,2860,2865,2765,1512.3,91.3,95,5
+12592,Gorakhpur SF Express,241,LAR,Lalitpur,24.6878726,78.3957263,02:24,02:26,1805.0,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3024,3026,2865,1603.6,201.4,159,2
+12592,Gorakhpur SF Express,253,VGLJ,Veerangana Lakshmibai Jhansi,25.44395,78.5534422,03:35,03:43,1895.3,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3095,3103,3026,1805.0,90.3,69,8
+12592,Gorakhpur SF Express,265,ORAI,Orai,25.9827679,79.4597648,04:58,05:00,2009.2,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3178,3180,3103,1895.3,113.9,75,2
+12592,Gorakhpur SF Express,270,PHN,Pokhrayan,26.2234404,79.8411177,05:37,05:39,2057.1,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3217,3219,3180,2009.2,47.9,37,2
+12592,Gorakhpur SF Express,279,CNB,Kanpur Central Jn,26.4538613,80.3512433,07:55,08:05,2115.6,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3355,3365,3219,2057.1,58.5,136,10
+12592,Gorakhpur SF Express,282,ON,Unnao Jn,26.5492382,80.4874371,08:31,08:33,2133.2,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3391,3393,3365,2115.6,17.6,26,2
+12592,Gorakhpur SF Express,292,ASH,Aishbagh,26.837359,80.9097954,09:40,09:50,2186.6,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3460,3470,3393,2133.2,53.4,67,10
+12592,Gorakhpur SF Express,295,BNZ,Badshahnagar,26.869125,80.960917,10:10,10:13,2195.4,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3490,3493,3470,2186.6,8.8,20,3
+12592,Gorakhpur SF Express,300,BBK,Bara Banki Jn,26.93424,81.17913,10:51,10:53,2219.9,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3531,3533,3493,2195.4,24.5,38,2
+12592,Gorakhpur SF Express,314,GD,Gonda Jn,27.1545673,81.9773841,12:15,12:20,2309.0,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3615,3620,3533,2219.9,89.1,82,5
+12592,Gorakhpur SF Express,318,MUR,Mankapur Jn,27.0393643,82.226676,12:42,12:44,2336.9,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3642,3644,3620,2309.0,27.9,22,2
+12592,Gorakhpur SF Express,327,BST,Basti,26.8153868,82.7698883,13:30,13:33,2397.7,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3690,3693,3644,2336.9,60.8,46,3
+12592,Gorakhpur SF Express,331,KLD,Khalilabad,26.7751208,83.05424,14:01,14:03,2427.1,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3721,3723,3693,2397.7,29.4,28,2
+12592,Gorakhpur SF Express,337,GKP,Gorakhpur Jn,26.7596666,83.3819746,15:10,,2461.1,YPR,Yesvantpur Jn,GKP,Gorakhpur Jn,3790,3790,3723,2427.1,34.0,67,0
